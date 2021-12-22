@@ -37,7 +37,7 @@ Adobe Photoshop, Illustrator, Figma
     + Specialist in physical rehabilitation
 
 
- ## Language ##
+## Languages: ##
 English - Pre-intermediate 
 Polish - Basic 
 Russian - Native
