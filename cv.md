@@ -1,5 +1,3 @@
-
-***
 ![My photo](/images/my_photo.jpg) 
 # Julia Khomenko #  
 
@@ -56,16 +54,11 @@ Adobe Photoshop, Illustrator, Figma
 
 ***
 ***
-## Languages: ##
-
-Polish - *Basic*
-
-English - *Pre-intermediate*
-
-Russian - *Native*
-
-Ukrainian - *Native*
 
 
-***
-
+ Language | level 
+-----------|:-------:
+English | Pre-intermediate 
+Polish | Basic 
+Russian | Native
+Ukrainian | Native
