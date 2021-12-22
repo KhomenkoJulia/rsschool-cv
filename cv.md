@@ -1,5 +1,6 @@
 
 ***
+![My photo](/images/my_photo.jpg) 
 # Julia Khomenko #  
 
 ### Junior Frontend Developer ###
@@ -15,9 +16,9 @@
 
 **e-mail:** khomenko.july@gmail.com
 
-**[telegram:]** [https://t.me/Khomenko_july]
+[telegram](https://t.me/Khomenko_july)
 
-**[linkedIn]** [https://www.linkedin.com/in/julia-khomenko-42121a227/]
+[linkedIn](https://www.linkedin.com/in/julia-khomenko-42121a227/)
 
 
 ***
@@ -30,8 +31,8 @@
 ## Skills and Proficiency: ##
 HTML5, CSS3, JavaScript Basics
 Git, GitHub
-Preprocessors SASS and LESS, BEM methodology, responsive layout
-Module Bundlers: Gulp, Webpack
+Preprocessors SASS and LESS, BEM methodology, responsive, semantic and accessible layout
+Gulp, Webpack, NPM
 Adobe Photoshop, Illustrator, Figma
 
 
@@ -42,12 +43,12 @@ Adobe Photoshop, Illustrator, Figma
     + Course «JavaScript/Front-end. Stage 0» (in progress)
 
 * HTML Academy
-    + [HTML &CSS. Adaptive Website Coding and Automation] [https://github.com/KhomenkoJulia/1794239-cat-energy-23]
+    + [HTML &CSS. Adaptive Website Coding and Automation](9https://github.com/KhomenkoJulia/1794239-cat-energy-23)
 
-    + [HTML &CSS. Professional Website Coding] [https://github.com/KhomenkoJulia/1794239-device-31]
+    + [HTML &CSS. Professional Website Coding](https://github.com/KhomenkoJulia/1794239-device-31)
 
 * Geek Brains
-    + [Web Design] [https://www.behance.net/j91511395558a0]
+    + [Web Design](https://www.behance.net/j91511395558a0)
 
 * V.I. Vernadsky Taurida National University
     + Specialist in physical rehabilitation
