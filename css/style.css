@@ -62,6 +62,7 @@
   }
   
   .page__body {
+    max-width: 1440px;
     display: grid;
     grid-template-rows: min-content 1fr min-content;
     font-family: "Rubik", "Arial", sans-serif;
